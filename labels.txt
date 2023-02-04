@@ -1,0 +1,14 @@
+0 abstract
+1 cityscape
+2 design
+3 figurative
+4 genre_painting
+5 illustration
+6 landscape
+7 marina
+8 mythological_painting
+9 portrait
+10 religious_painting
+11 sketch_and_study
+12 still_life
+13 symbolic_painting
